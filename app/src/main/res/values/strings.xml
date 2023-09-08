@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PasswordChecker</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="password_status">Password Status</string>
+    <string name="haslowercase">hasLowerCase</string>
+    <string name="hasuppercase">hasUpperCase</string>
+    <string name="hassymbol">hasSymbol</string>
+    <string name="_00">00</string>
+    <string name="length">Length</string>
+</resources>
